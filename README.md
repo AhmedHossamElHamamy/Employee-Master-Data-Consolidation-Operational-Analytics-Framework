@@ -105,3 +105,19 @@ ELSE IF Record WAS IN Bad_Records AND IS NOW FIXED THEN
     -- Write-Back to Source
     UPDATE Oracle_Source_Table SET Columns = Fixed_Values;
 END IF;
+```
+---
+
+## 📊 Live Dashboard Demo
+
+Experience the full interactive report. Click the preview image or the button below to open the Power BI Dashboard.
+
+[![Power BI Dashboard Preview](assets/etl_project_pages-to-jpg-0001.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNWE3MzY1MTEtYWZhNy00MGRlLWJjYmUtY2FlNThjMzI1MGZiIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+
+<br>
+
+<div align="center">
+  
+  [![View in Power BI](https://img.shields.io/badge/Power%20BI-View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNWE3MzY1MTEtYWZhNy00MGRlLWJjYmUtY2FlNThjMzI1MGZiIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+
+</div>

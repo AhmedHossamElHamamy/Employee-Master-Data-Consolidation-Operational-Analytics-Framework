@@ -1,7 +1,7 @@
 # Employee-Master-Data-Consolidation-Operational-Analytics-Framework
 ![Informatica](https://img.shields.io/badge/Informatica-IDQ-orange) ![Oracle](https://img.shields.io/badge/Database-Oracle-red) ![Power BI](https://img.shields.io/badge/Analytics-Power%20BI-yellow) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📋 Executive Summary
+## 📋 Executive Summary 
 This project establishes a robust end-to-end data pipeline that consolidates fragmented employee data from hybrid sources (Oracle & CSV) into a unified "Golden Record." 
 
 The solution features a **Human-in-the-Loop** quality gate for error remediation, a **Closed-Loop** write-back mechanism to fix source systems, and seamless integration with **Power BI** via an On-Premises Data Gateway for operational insights.

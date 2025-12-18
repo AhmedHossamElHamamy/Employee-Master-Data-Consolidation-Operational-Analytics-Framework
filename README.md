@@ -9,7 +9,7 @@ The solution features a **Human-in-the-Loop** quality gate for error remediation
 ---
 
 ## 🛠 Tech Stack
-* **ETL & Data Quality:** Informatica Developer (IDQ 10.x), Human Task (Analyst Tool)
+* **ETL & Data Quality:** Informatica Developer (IDQ 10.5.8), Human Task (Analyst Tool)
 * **Storage:** Oracle Database (Relational), CSV Flat Files (Structured)
 * **Integration:** Microsoft On-Premises Data Gateway
 * **Analytics:** Power BI Desktop/Service
